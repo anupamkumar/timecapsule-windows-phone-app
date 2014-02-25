@@ -1,0 +1,337 @@
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.pdb
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\AppManifest.xaml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test_Debug_AnyCPU.xap
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csprojResolveAssemblyReference.cache
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\App.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\MainPage.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.g.resources
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.Resources.AppResources.resources
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csproj.GenerateResource.Cache
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.pdb
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\XapCacheFile.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\Register.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\de\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\es\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\fr\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\it\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ja\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ko\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\ru\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\Login.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\AddComment.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\AddImage.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\obj\Debug\map1.g.cs
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.dll
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.xml
+C:\Users\Mintoo\Desktop\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\AppManifest.xaml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test_Debug_AnyCPU.xap
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\de\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\es\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\fr\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\it\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ja\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ko\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\ru\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\App.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\AddComment.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\AddImage.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\Login.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\MainPage.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\map1.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\RecordControl.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\Register.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\ShowImage.g.cs
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.Resources.AppResources.resources
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csproj.GenerateResource.Cache
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\XapCacheFile.xml
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.pdb
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.g.resources
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.dll
+C:\Users\charlie0.o\Documents\Visual Studio 2013\Projects\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.pdb
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.pdb
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\AppManifest.xaml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test_Debug_AnyCPU.xap
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.xml
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\de\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\es\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\fr\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\it\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ja\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ko\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\ru\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\System.Spatial.Portable.resources.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csprojResolveAssemblyReference.cache
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\App.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\AddComment.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\AddImage.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\Login.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\MainPage.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\map1.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\RecordControl.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\Register.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\ShowImage.g.cs
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.g.resources
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.Resources.AppResources.resources
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csproj.GenerateResource.Cache
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.dll
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.pdb
+C:\Users\Mintoo\Desktop\2\timecapsule-test\timecapsule_test\obj\Debug\XapCacheFile.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test.pdb
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\AppManifest.xaml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\timecapsule_test_Debug_AnyCPU.xap
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Facebook.Client.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.Edm.Portable.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Data.OData.Portable.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\System.Spatial.Portable.xml
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.Edm.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\de\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\es\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\fr\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\it\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ja\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ko\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ru\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\Microsoft.Data.OData.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\de\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\es\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\fr\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\it\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ja\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ko\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\ru\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hans\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\Bin\Debug\zh-Hant\System.Spatial.Portable.resources.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csprojResolveAssemblyReference.cache
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\App.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\AddComment.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\AddImage.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\Login.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\MainPage.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\map1.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\RecordControl.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\Register.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\ShowImage.g.cs
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.g.resources
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.Resources.AppResources.resources
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.csproj.GenerateResource.Cache
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.dll
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\timecapsule_test.pdb
+C:\Users\charlie0.o\Desktop\final\timecapsule-test\timecapsule_test\obj\Debug\XapCacheFile.xml

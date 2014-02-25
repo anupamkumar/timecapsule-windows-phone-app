@@ -1,0 +1,58 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="timecapsule_test.Register"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Text="Register"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="14,10,10,-10">
+            <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149" Height="28">
+            	<Run Text="Username"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="6,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149" Height="28">
+            	<Run Text="Password"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="6,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" Height="32">
+            	<Run Text="Email"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="6,321,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="First Name"/>
+            <TextBlock HorizontalAlignment="Left" Margin="6,415,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Height="28"/>
+            <TextBox x:Name="tbuname" HorizontalAlignment="Left" Height="72" Margin="10,38,-10,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="456"/>
+            <TextBox x:Name="tbpwd" HorizontalAlignment="Left" Height="72" Margin="10,138,-10,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="456"/>
+            <TextBox x:Name="tbemail" HorizontalAlignment="Left" Height="72" Margin="10,244,-10,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="456"/>
+            <TextBox x:Name="tbfirstname" HorizontalAlignment="Left" Height="72" Margin="10,338,-10,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="456"/>
+            <TextBox x:Name="tblastname" HorizontalAlignment="Left" Height="72" Margin="10,448,-10,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="456"/>
+            <Button x:Name="btnreg" Content="Register" HorizontalAlignment="Left" Margin="21,520,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,-0.259" Click="Button_Click"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

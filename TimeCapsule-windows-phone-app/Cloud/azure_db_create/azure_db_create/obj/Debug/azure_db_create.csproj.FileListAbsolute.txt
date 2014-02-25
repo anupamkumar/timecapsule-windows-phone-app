@@ -1,0 +1,1 @@
+D:\hacka\azure_db_create\azure_db_create\bin\Debug\azure_db_create.exe.config

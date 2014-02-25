@@ -1,0 +1,50 @@
+exports.post = function(request, response) {
+    // Use "request.service" to access features of your mobile service, e.g.:
+    //   var tables = request.service.tables;
+    //   var push = request.service.push;
+
+    response.send(statusCodes.OK, { message : 'Hello World!' });
+};
+
+exports.get = function(request, response) {
+    var lat1 = request.query.lat;
+    var lng1 = request.query.lng;
+    var uname = request.query.un;
+    request.service.mssql.query("select * from comments where username <> '"+uname+"' order by __createdAt", {
+    success: function(results)
+    {
+        
+       var obj = eval(results );
+        var s="_";
+        for(var i=0;i<obj.length;i++)
+        {
+            //s = s + lat1+"..."+lng1+"..."+obj[i].loc_lat+"..."+obj[i].loc_lng+"<br/>";
+            var d = getDistanceFromLatLonInKm(lat1,lng1,obj[i].loc_lat,obj[i].loc_lng);
+            if(d < 5 )
+            {
+                s = s+obj[i].username+";"+obj[i].loc_lat+";"+obj[i].loc_lng+";"+obj[i].commentposted+"\n";
+            }    
+//            s = s+ d+ "<br/>";        
+        }
+        response.send(200,s);
+    }
+});
+};
+
+function getDistanceFromLatLonInKm(lat1,lon1,lat2,lon2) {
+  var R = 6371; // Radius of the earth in km
+  var dLat = deg2rad(lat2-lat1);  // deg2rad below
+  var dLon = deg2rad(lon2-lon1); 
+  var a = 
+    Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) * 
+    Math.sin(dLon/2) * Math.sin(dLon/2)
+    ; 
+  var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+  var d = R * c; // Distance in km
+  return d;
+}
+
+function deg2rad(deg) {
+  return deg * (Math.PI/180)
+}
